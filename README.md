@@ -2,11 +2,10 @@
 This is a how to get started guide for Python tailored to hydrologists in Central Asia
 
 ## [Table of contents](#table-of-contents)
-1. [Introduction](#introduction)
-2. [Download of Tutorial files](#download-of-tutorial)
-3. [Installation of Python](#installation)
-4. [Python basics](#python-basics)
-5. [Plotting a hydrograph](notebooks/00_plotting_a_hydrograph.iypnb){target="_blank"}(#plotting-a-hydrograph)
+0. [Introduction](#introduction)
+1. [Download of Tutorial files](#download-of-tutorial)
+2. [Installation of Python](#installation)
+3. [Python basics](#python-basics)
 
 ## [0. Introduction](#introduction)
 Python is a programming language that is easy to learn and has a large community of users. It is used in many fields of science and engineering. Python is a good choice for hydrologists because it is free, open source, and has a large number of libraries for scientific computing. 
