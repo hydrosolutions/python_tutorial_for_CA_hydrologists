@@ -5,7 +5,8 @@ This is a how to get started guide for Python tailored to hydrologists in Centra
 0. [Introduction](#introduction)
 1. [Download of Tutorial files](#download-of-tutorial)
 2. [Installation of Python](#installation)
-3. [Python basics](#python-basics)
+3. [Installation of Python packages](#installation-of-python-packages)
+4. [Python basics](#python-basics)
 
 ## [0. Introduction](#introduction)
 Python is a programming language that is easy to learn and has a large community of users. It is used in many fields of science and engineering. Python is a good choice for hydrologists because it is free, open source, and has a large number of libraries for scientific computing. 
@@ -20,7 +21,14 @@ There are many ways to install Python. The easiest way is to install the Anacond
 
 The [Anaconda website](https://docs.anaconda.com/free/anaconda/install/index.html) has instructions for installing Anaconda on Windows, macOS, and Linux. Please follow the instructions for your operating system. When the installation is complete, open the Anaconda Navigator.
 
-## [3. Python basics](#python-basics)
+## [3. Installation of Python packages](#installation-of-python-packages)
+Other people have already written many Python packages that you can use for your work. In this tutorial, we will be using the following packages:  
+- *Pandas* is a Python package for data analysis.   
+- *Numpy* is a Python package for scientific computing.  
+- *Holoviews* is a Python package for data visualization.  
+To install these packages you can go to the Anaconda Navigator and click on "Environments" in the left sidebar. Then select "Not installed" from the dropdown menu and search for the packages. Click on the checkbox next to the package name and then click "Apply". This will install the packages.
+
+## [4. Python basics](#python-basics)
 ### 3.0. Basic concepts
 Many tutorials are available on the web to introduce basic concepts of Python. Here are a few examples:
 - [Videos & exercises from University of Waterloo](https://open.cs.uwaterloo.ca/python-from-scratch/). This tutorial offers an in-depth introduction to Python. It is a good choice if you have no prior experience with Python, you want to commit to gaining a solid base, and you prefer learning through videos.  
