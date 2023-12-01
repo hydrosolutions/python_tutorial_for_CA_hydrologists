@@ -25,7 +25,8 @@ The [Anaconda website](https://docs.anaconda.com/free/anaconda/install/index.htm
 Other people have already written many Python packages that you can use for your work. In this tutorial, we will be using the following packages:  
 - *Pandas* is a Python package for data analysis.   
 - *Numpy* is a Python package for scientific computing.  
-- *Holoviews* is a Python package for data visualization.  
+- *Holoviews* is a Python package for data visualization.   
+  
 To install these packages you can go to the Anaconda Navigator and click on "Environments" in the left sidebar. Then select "Not installed" from the dropdown menu and search for the packages. Click on the checkbox next to the package name and then click "Apply". This will install the packages.
 
 ## [4. Python basics](#python-basics)
