@@ -19,7 +19,7 @@ The tutorial files are available on hydrosolutions public GitHub repository [pyt
 ## [2. Installation of Python](#installation)
 There are many ways to install Python. The easiest way is to install the Anaconda distribution. Anaconda is a free and open source distribution of Python and R programming languages for scientific computing. It is used for large-scale data processing, predictive analytics, and scientific computing. Anaconda comes with more than 1,000 open source packages.
 
-The [Anaconda website](https://docs.anaconda.com/free/anaconda/install/index.html) has instructions for installing Anaconda on Windows, macOS, and Linux. Please follow the instructions for your operating system. When the installation is complete, open the Anaconda Navigator.
+The [Anaconda website](https://www.anaconda.com/download/) has instructions for installing Anaconda on Windows, macOS, and Linux. Please follow the instructions for your operating system. When the installation is complete, open the Anaconda Navigator.
 
 ## [3. Installation of Python packages](#installation-of-python-packages)
 Other people have already written many Python packages that you can use for your work. In this tutorial, we will be using the following packages:  
